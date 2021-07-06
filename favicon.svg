@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<style>
+  path {
+    fill: #FFFFFF;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    path {
+      fill: #153a51;
+    } 
+  }
+</style>
+<text y=".9em" font-size="460">📞</text>
+</svg>
